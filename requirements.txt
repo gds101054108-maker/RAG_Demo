@@ -1,0 +1,25 @@
+# RAG 系统依赖包
+# LangChain 核心
+langchain>=0.3.0
+langchain-openai>=0.2.0
+langchain-community>=0.3.0
+
+# 向量数据库
+chromadb>=0.4.0
+
+# 嵌入模型
+sentence-transformers>=2.2.0
+
+# 文档处理
+python-docx>=0.8.11
+pypdf>=3.0.0
+tiktoken>=0.5.0
+
+# 工具库
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+requests>=2.28.0
+
+# 重排序
+torch>=2.0.0
+transformers>=4.35.0
